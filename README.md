@@ -1,8 +1,10 @@
 LCC-LC3 C Compiler
 ===================
 
-##Recent Changes
-####May 2012
+Compiles with modern C++ as of 2026
+
+## Recent Changes
+#### May 2012
 
 *Avery Yen*
 
